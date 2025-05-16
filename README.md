@@ -1,6 +1,6 @@
 # 📝 TodoListTypeScript
 
-![ToDoList Screenshot](https://raw.githubusercontent.com/Marcos-Valee/WeatherApp/main/src/images/capturaDeTela.png)
+![ToDoList Screenshot](https://raw.githubusercontent.com/Marcos-Valee/taskify-ts/main/src/assets/capturaDeTela.png)
 
 Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida para treinar e praticar as tecnologias **React**, **TypeScript** e **Vite**.
 
